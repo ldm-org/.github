@@ -17,8 +17,8 @@ Wire-up fragmented codes and files from various sources with a single command.
 <p>
 
 <p align="center">
- <a href="#documentation">Documentation</a> | <a href="#quick-start">Getting Started</a> | <a href="#examples">Examples</a>
+ <a href="https://github.com/ldm-org/ldm?tab=readme-ov-file#documentation">Documentation</a> | <a href="https://github.com/ldm-org/ldm?tab=readme-ov-file#quick-start">Getting Started</a> | <a href="https://github.com/ldm-org/ldm?tab=readme-ov-file#examples">Examples</a>
 </p>
 <p align="center">
-<a href="#what-is-loose-dependency-manager">What is loose dependency manager?</a>
+<a href="https://github.com/ldm-org/ldm?tab=readme-ov-file#what-is-loose-dependency-manager">What is loose dependency manager?</a>
 </p>
